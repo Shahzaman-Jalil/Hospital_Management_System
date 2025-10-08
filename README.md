@@ -54,10 +54,6 @@ README.md
 - Log in as a doctor, nurse, patient, or receptionist to access respective modules.
 - Use the GUI to manage appointments, patient records, staff schedules, and more.
 
-## Screenshots
-
-*(Add screenshots of the main UI screens here for better visualization.)*
-
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request.
